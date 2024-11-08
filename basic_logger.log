@@ -1,0 +1,40 @@
+2024-11-07 17:58:27,667 DEBUG Debug message
+2024-11-07 17:58:27,668 INFO Informative message
+2024-11-07 17:58:27,668 ERROR Error message
+2024-11-07 17:58:27,668 INFO Custom logger message
+2024-11-07 17:58:32,669 DEBUG Debug message
+2024-11-07 17:58:32,669 INFO Informative message
+2024-11-07 17:58:32,669 ERROR Error message
+2024-11-07 17:58:32,669 INFO Custom logger message
+2024-11-07 17:58:37,671 DEBUG Debug message
+2024-11-07 17:58:37,671 INFO Informative message
+2024-11-07 17:58:37,671 ERROR Error message
+2024-11-07 17:58:37,671 INFO Custom logger message
+2024-11-07 17:58:42,672 DEBUG Debug message
+2024-11-07 17:58:42,673 INFO Informative message
+2024-11-07 17:58:42,673 ERROR Error message
+2024-11-07 17:58:42,673 INFO Custom logger message
+2024-11-07 17:58:47,674 DEBUG Debug message
+2024-11-07 17:58:47,674 INFO Informative message
+2024-11-07 17:58:47,674 ERROR Error message
+2024-11-07 17:58:47,674 INFO Custom logger message
+2024-11-07 17:58:52,675 DEBUG Debug message
+2024-11-07 17:58:52,675 INFO Informative message
+2024-11-07 17:58:52,675 ERROR Error message
+2024-11-07 17:58:52,675 INFO Custom logger message
+2024-11-07 17:58:57,676 DEBUG Debug message
+2024-11-07 17:58:57,676 INFO Informative message
+2024-11-07 17:58:57,676 ERROR Error message
+2024-11-07 17:58:57,676 INFO Custom logger message
+2024-11-07 17:59:02,678 DEBUG Debug message
+2024-11-07 17:59:02,678 INFO Informative message
+2024-11-07 17:59:02,678 ERROR Error message
+2024-11-07 17:59:02,679 INFO Custom logger message
+2024-11-07 17:59:07,680 DEBUG Debug message
+2024-11-07 17:59:07,680 INFO Informative message
+2024-11-07 17:59:07,680 ERROR Error message
+2024-11-07 17:59:07,680 INFO Custom logger message
+2024-11-07 17:59:12,682 DEBUG Debug message
+2024-11-07 17:59:12,683 INFO Informative message
+2024-11-07 17:59:12,683 ERROR Error message
+2024-11-07 17:59:12,683 INFO Custom logger message
